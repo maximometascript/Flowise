@@ -403,6 +403,10 @@
             "name": "chatOpenAI",
             "models": [
                 {
+                    "label": "TheBloke/dolphin-2.2.1-mistral-7B-AWQ",
+                    "name": "TheBloke/dolphin-2.2.1-mistral-7B-AWQ"
+                },
+                {
                     "label": "gpt-4",
                     "name": "gpt-4"
                 },
